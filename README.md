@@ -1,4 +1,3 @@
-# guess-the-number-game
 # 🎮 Guess the Number Game
 
 A simple command-line game written in Python. The computer has a secret number, and the player tries to guess it. After each guess, the game tells the player whether the secret number is higher or lower.
